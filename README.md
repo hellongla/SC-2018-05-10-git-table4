@@ -7,3 +7,5 @@ A git learning example
 
 1. Put a pot of water on a campfire
 2. add carrots
+3. add celeries
+4. add potatoes
